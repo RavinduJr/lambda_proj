@@ -4,5 +4,5 @@ package com.lambda.interfaces;
 public interface Calculations {
 
 	public void calculateTotal();
-	
+
 }

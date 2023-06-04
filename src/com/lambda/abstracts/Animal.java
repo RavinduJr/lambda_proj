@@ -7,5 +7,5 @@ public abstract class Animal {
 	public void animalName(String name) {
 		System.out.println("Animal name is " + name);
 	}
-	
+
 }
