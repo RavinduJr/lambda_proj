@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>This is a XML file generated through proprties</comment>
+<entry key="INSTITUTE">SLIIT</entry>
+<entry key="MODULE">MTIT</entry>
+<entry key="YEAR">4th Year</entry>
+<entry key="FIELD">SE</entry>
+<entry key="NAME">Udara</entry>
+</properties>
